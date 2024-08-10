@@ -1,0 +1,26 @@
+.completed-orders {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.completed-orders h2 {
+    margin-bottom: 20px;
+}
+
+.completed-orders table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.completed-orders th, .completed-orders td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.completed-orders th {
+    background-color: #f2f2f2;
+}

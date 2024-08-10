@@ -1,0 +1,16 @@
+.price-chart {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.price-chart h2 {
+    margin-bottom: 20px;
+}
+
+.price-chart canvas {
+    width: 100%;
+    height: 400px;
+}
